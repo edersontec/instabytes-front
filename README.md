@@ -4,13 +4,11 @@
 
 - [Sobre o projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Aprendizados](#aprendizados)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 	- [Bibliotecas](#bibliotecas)
 - [Pré-requisitos](#pré-requisitos)
 - [Como instalar este projeto](#como-instalar-este-projeto)
 - [Como usar este projeto](#como-usar-este-projeto)
-- [Informações adicionais](#informações-adicionais)
 - [Licença](#licença)
 - [Contribuidores](#contribuidores)
 
